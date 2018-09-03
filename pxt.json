@@ -1,0 +1,17 @@
+{
+    "name": "gpslogger",
+    "version": "0.0.1",
+    "description": "GPS Logger package for pxt-microbit",
+    "license": "Apache",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+    ],
+    "yotta": {},
+    "public": true
+}
